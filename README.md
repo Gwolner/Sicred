@@ -3,7 +3,7 @@
 38 testes rodando ok no JUnit.
 
 Uso do assertFalse, assertTrue, assertNull, assertNotNull e assertEquals. 
-Este ultimo foi utilizado para String, int, long e double uso do delta.
+Este ultimo foi utilizado para String, int, long e double usando o delta.
 
 ## Identificando o JUnit
 Ao abrir o projeto no Eclipse, caso ele não econheça o JUnit de primeira, siga os passos abaixo.
